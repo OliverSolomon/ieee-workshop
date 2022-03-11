@@ -1,4 +1,4 @@
-#2022 IEEE workshop on IoT
+# 2022 IEEE workshop on IoT
 
 The workshop involved an introduction to IoT using WaziDev IoT LoraWan prototyping kit.
 Humidity and temprature data recorded by the DHT11 sensor is sent to TheThingsStack using Lora.
